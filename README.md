@@ -1,0 +1,2 @@
+# sscm
+Small SCM
